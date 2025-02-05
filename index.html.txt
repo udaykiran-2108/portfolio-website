@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uday Kiran | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>G UDAY KIRAN</h1>
+        <p>Computer Science Engineer | Machine Learning Enthusiast</p>
+        <nav>
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#experience">Experience</a></li>
+                <li><a href="#certifications">Certifications</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </nav>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>B.Tech Computer Science student at GITAM Hyderabad with a passion for AI, NLP, and Software Development.</p>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>Real-Time Face Detection using OpenCV</h3>
+            <p>Implemented face detection using OpenCV and Python with Haar cascades and deep learning models.</p>
+        </div>
+        <div class="project">
+            <h3>Identification of Toxic Code Reviews</h3>
+            <p>Developed an NLP-based model to detect toxicity in code reviews with 85% accuracy.</p>
+        </div>
+    </section>
+    
+    <section id="experience">
+        <h2>Work Experience</h2>
+        <h3>EduSkills AICTE (Intern)</h3>
+        <p>Worked on AI models, NLP tasks, and data processing to improve model accuracy and efficiency.</p>
+    </section>
+    
+    <section id="certifications">
+        <h2>Certifications</h2>
+        <ul>
+            <li>Core Java - LearnQuest (Coursera)</li>
+            <li>Machine Learning with Python - freeCodeCamp</li>
+        </ul>
+    </section>
+    
+    <section id="contact">
+        <h2>Contact</h2>
+        <p>Email: <a href="mailto:udaykirangattupally@gmail.com">udaykirangattupally@gmail.com</a></p>
+        <p>LinkedIn: <a href="https://www.linkedin.com/in/uday-kiran-gattupally" target="_blank">linkedin.com/in/uday-kiran-gattupally</a></p>
+        <p>GitHub: <a href="https://github.com/yourgithub" target="_blank">github.com/yourgithub</a></p>
+    </section>
+    
+    <footer>
+        <p>&copy; 2025 Uday Kiran. All rights reserved.</p>
+    </footer>
+</body>
+</html>
